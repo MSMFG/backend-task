@@ -29,8 +29,7 @@ It finds the exchange with the best (highest) price and returns the price and th
       
 ## Technologies
 
- * Java 1.8
+ * Java 17
  * Gradle
  * JUnit
  * Mockito
- * Hamcrest/AssertJ
